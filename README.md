@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on **PBI admin dashboard**
 
-- 🌱 I’m currently learning **TTS and TTL with python (tacotron2)**
+- 🌱 I’m currently learning **TTS and TTT with python (tacotron2)**
 
 - 👯 I’m looking to collaborate on **React and Node js Project**
 
